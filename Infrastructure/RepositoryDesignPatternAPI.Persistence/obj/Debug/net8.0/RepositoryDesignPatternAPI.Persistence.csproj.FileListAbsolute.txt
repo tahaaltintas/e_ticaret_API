@@ -1,0 +1,17 @@
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Persistence\bin\Debug\net8.0\RepositoryDesignPatternAPI.Persistence.deps.json
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Persistence\bin\Debug\net8.0\RepositoryDesignPatternAPI.Persistence.dll
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Persistence\bin\Debug\net8.0\RepositoryDesignPatternAPI.Persistence.pdb
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Persistence\bin\Debug\net8.0\RepositoryDesignPatternAPI.Application.dll
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Persistence\bin\Debug\net8.0\RepositoryDesignPatternAPI.Domain.dll
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Persistence\bin\Debug\net8.0\RepositoryDesignPatternAPI.Application.pdb
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Persistence\bin\Debug\net8.0\RepositoryDesignPatternAPI.Domain.pdb
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Persistence\obj\Debug\net8.0\RepositoryDesignPatternAPI.Persistence.csproj.AssemblyReference.cache
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Persistence\obj\Debug\net8.0\RepositoryDesignPatternAPI.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Persistence\obj\Debug\net8.0\RepositoryDesignPatternAPI.Persistence.AssemblyInfoInputs.cache
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Persistence\obj\Debug\net8.0\RepositoryDesignPatternAPI.Persistence.AssemblyInfo.cs
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Persistence\obj\Debug\net8.0\RepositoryDesignPatternAPI.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Persistence\obj\Debug\net8.0\RepositoryDesignPatternAPI.Persistence.csproj.CopyComplete
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Persistence\obj\Debug\net8.0\RepositoryDesignPatternAPI.Persistence.dll
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Persistence\obj\Debug\net8.0\refint\RepositoryDesignPatternAPI.Persistence.dll
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Persistence\obj\Debug\net8.0\RepositoryDesignPatternAPI.Persistence.pdb
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Persistence\obj\Debug\net8.0\ref\RepositoryDesignPatternAPI.Persistence.dll

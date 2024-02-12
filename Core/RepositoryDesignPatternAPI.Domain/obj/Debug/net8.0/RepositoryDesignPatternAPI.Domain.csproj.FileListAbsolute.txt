@@ -1,0 +1,11 @@
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Core\RepositoryDesignPatternAPI.Domain\bin\Debug\net8.0\RepositoryDesignPatternAPI.Domain.deps.json
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Core\RepositoryDesignPatternAPI.Domain\bin\Debug\net8.0\RepositoryDesignPatternAPI.Domain.dll
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Core\RepositoryDesignPatternAPI.Domain\bin\Debug\net8.0\RepositoryDesignPatternAPI.Domain.pdb
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Core\RepositoryDesignPatternAPI.Domain\obj\Debug\net8.0\RepositoryDesignPatternAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Core\RepositoryDesignPatternAPI.Domain\obj\Debug\net8.0\RepositoryDesignPatternAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Core\RepositoryDesignPatternAPI.Domain\obj\Debug\net8.0\RepositoryDesignPatternAPI.Domain.AssemblyInfo.cs
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Core\RepositoryDesignPatternAPI.Domain\obj\Debug\net8.0\RepositoryDesignPatternAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Core\RepositoryDesignPatternAPI.Domain\obj\Debug\net8.0\RepositoryDesignPatternAPI.Domain.dll
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Core\RepositoryDesignPatternAPI.Domain\obj\Debug\net8.0\refint\RepositoryDesignPatternAPI.Domain.dll
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Core\RepositoryDesignPatternAPI.Domain\obj\Debug\net8.0\RepositoryDesignPatternAPI.Domain.pdb
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Core\RepositoryDesignPatternAPI.Domain\obj\Debug\net8.0\ref\RepositoryDesignPatternAPI.Domain.dll

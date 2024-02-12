@@ -1,0 +1,17 @@
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Infrastructure\bin\Debug\net8.0\RepositoryDesignPatternAPI.Infrastructure.deps.json
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Infrastructure\bin\Debug\net8.0\RepositoryDesignPatternAPI.Infrastructure.dll
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Infrastructure\bin\Debug\net8.0\RepositoryDesignPatternAPI.Infrastructure.pdb
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Infrastructure\bin\Debug\net8.0\RepositoryDesignPatternAPI.Application.dll
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Infrastructure\bin\Debug\net8.0\RepositoryDesignPatternAPI.Domain.dll
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Infrastructure\bin\Debug\net8.0\RepositoryDesignPatternAPI.Application.pdb
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Infrastructure\bin\Debug\net8.0\RepositoryDesignPatternAPI.Domain.pdb
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Infrastructure\obj\Debug\net8.0\RepositoryDesignPatternAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Infrastructure\obj\Debug\net8.0\RepositoryDesignPatternAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Infrastructure\obj\Debug\net8.0\RepositoryDesignPatternAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Infrastructure\obj\Debug\net8.0\RepositoryDesignPatternAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Infrastructure\obj\Debug\net8.0\RepositoryDesignPatternAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Infrastructure\obj\Debug\net8.0\RepositoryDesignPatternAPI.Infrastructure.csproj.CopyComplete
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Infrastructure\obj\Debug\net8.0\RepositoryDesignPatternAPI.Infrastructure.dll
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Infrastructure\obj\Debug\net8.0\refint\RepositoryDesignPatternAPI.Infrastructure.dll
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Infrastructure\obj\Debug\net8.0\RepositoryDesignPatternAPI.Infrastructure.pdb
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Infrastructure\obj\Debug\net8.0\ref\RepositoryDesignPatternAPI.Infrastructure.dll
