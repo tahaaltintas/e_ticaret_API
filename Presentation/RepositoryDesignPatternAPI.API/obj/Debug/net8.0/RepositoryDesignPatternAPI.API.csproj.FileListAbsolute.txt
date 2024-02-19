@@ -140,3 +140,4 @@ C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Presenta
 C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Presentation\RepositoryDesignPatternAPI.API\obj\Debug\net8.0\RepositoryDesignPatternAPI.API.pdb
 C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Presentation\RepositoryDesignPatternAPI.API\obj\Debug\net8.0\RepositoryDesignPatternAPI.API.genruntimeconfig.cache
 C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Presentation\RepositoryDesignPatternAPI.API\obj\Debug\net8.0\ref\RepositoryDesignPatternAPI.API.dll
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Presentation\RepositoryDesignPatternAPI.API\obj\Debug\net8.0\RepositoryDesignPatternAPI.API.sourcelink.json

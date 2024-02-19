@@ -12,7 +12,7 @@ using RepositoryDesignPatternAPI.Persistence.Contexts;
 namespace RepositoryDesignPatternAPI.Persistence.Migrations
 {
     [DbContext(typeof(RepositoryDesignPatternDbContext))]
-    [Migration("20240209220548_mig_1")]
+    [Migration("20240212225858_mig_1")]
     partial class mig_1
     {
         /// <inheritdoc />
@@ -53,6 +53,9 @@ namespace RepositoryDesignPatternAPI.Persistence.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<DateTime>("UpdateDate")
+                        .HasColumnType("datetime2");
+
                     b.HasKey("Id");
 
                     b.ToTable("Customers");
@@ -74,6 +77,9 @@ namespace RepositoryDesignPatternAPI.Persistence.Migrations
                     b.Property<string>("Descriptons")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("UpdateDate")
+                        .HasColumnType("datetime2");
 
                     b.Property<Guid>("customerId")
                         .HasColumnType("uniqueidentifier");
@@ -103,6 +109,9 @@ namespace RepositoryDesignPatternAPI.Persistence.Migrations
 
                     b.Property<int>("Stock")
                         .HasColumnType("int");
+
+                    b.Property<DateTime>("UpdateDate")
+                        .HasColumnType("datetime2");
 
                     b.HasKey("Id");
 

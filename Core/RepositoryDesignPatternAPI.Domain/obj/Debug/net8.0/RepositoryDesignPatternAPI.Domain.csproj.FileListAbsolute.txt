@@ -9,3 +9,4 @@ C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Core\Rep
 C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Core\RepositoryDesignPatternAPI.Domain\obj\Debug\net8.0\refint\RepositoryDesignPatternAPI.Domain.dll
 C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Core\RepositoryDesignPatternAPI.Domain\obj\Debug\net8.0\RepositoryDesignPatternAPI.Domain.pdb
 C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Core\RepositoryDesignPatternAPI.Domain\obj\Debug\net8.0\ref\RepositoryDesignPatternAPI.Domain.dll
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Core\RepositoryDesignPatternAPI.Domain\obj\Debug\net8.0\RepositoryDesignPatternAPI.Domain.sourcelink.json

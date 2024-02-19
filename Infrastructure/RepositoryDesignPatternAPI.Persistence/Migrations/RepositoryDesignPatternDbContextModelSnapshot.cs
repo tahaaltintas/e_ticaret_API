@@ -50,6 +50,9 @@ namespace RepositoryDesignPatternAPI.Persistence.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<DateTime>("UpdateDate")
+                        .HasColumnType("datetime2");
+
                     b.HasKey("Id");
 
                     b.ToTable("Customers");
@@ -71,6 +74,9 @@ namespace RepositoryDesignPatternAPI.Persistence.Migrations
                     b.Property<string>("Descriptons")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("UpdateDate")
+                        .HasColumnType("datetime2");
 
                     b.Property<Guid>("customerId")
                         .HasColumnType("uniqueidentifier");
@@ -100,6 +106,9 @@ namespace RepositoryDesignPatternAPI.Persistence.Migrations
 
                     b.Property<int>("Stock")
                         .HasColumnType("int");
+
+                    b.Property<DateTime>("UpdateDate")
+                        .HasColumnType("datetime2");
 
                     b.HasKey("Id");
 

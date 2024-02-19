@@ -15,3 +15,4 @@ C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastr
 C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Persistence\obj\Debug\net8.0\refint\RepositoryDesignPatternAPI.Persistence.dll
 C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Persistence\obj\Debug\net8.0\RepositoryDesignPatternAPI.Persistence.pdb
 C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Persistence\obj\Debug\net8.0\ref\RepositoryDesignPatternAPI.Persistence.dll
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Persistence\obj\Debug\net8.0\RepositoryDesignPatternAPI.Persistence.sourcelink.json
