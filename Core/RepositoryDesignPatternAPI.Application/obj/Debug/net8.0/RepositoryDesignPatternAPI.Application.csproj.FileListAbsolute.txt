@@ -8,9 +8,9 @@ C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Core\Rep
 C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Core\RepositoryDesignPatternAPI.Application\obj\Debug\net8.0\RepositoryDesignPatternAPI.Application.AssemblyInfoInputs.cache
 C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Core\RepositoryDesignPatternAPI.Application\obj\Debug\net8.0\RepositoryDesignPatternAPI.Application.AssemblyInfo.cs
 C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Core\RepositoryDesignPatternAPI.Application\obj\Debug\net8.0\RepositoryDesignPatternAPI.Application.csproj.CoreCompileInputs.cache
-C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Core\RepositoryDesignPatternAPI.Application\obj\Debug\net8.0\RepositoryDesignPatternAPI.Application.csproj.CopyComplete
 C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Core\RepositoryDesignPatternAPI.Application\obj\Debug\net8.0\RepositoryDesignPatternAPI.Application.dll
 C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Core\RepositoryDesignPatternAPI.Application\obj\Debug\net8.0\refint\RepositoryDesignPatternAPI.Application.dll
 C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Core\RepositoryDesignPatternAPI.Application\obj\Debug\net8.0\RepositoryDesignPatternAPI.Application.pdb
 C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Core\RepositoryDesignPatternAPI.Application\obj\Debug\net8.0\ref\RepositoryDesignPatternAPI.Application.dll
 C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Core\RepositoryDesignPatternAPI.Application\obj\Debug\net8.0\RepositoryDesignPatternAPI.Application.sourcelink.json
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Core\RepositoryDesignPatternAPI.Application\obj\Debug\net8.0\Reposito.C2E00841.Up2Date

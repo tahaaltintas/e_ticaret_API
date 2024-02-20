@@ -28,8 +28,9 @@ namespace RepositoryDesignPatternAPI.Persistence.Contexts
                 _ = data.State switch
                 {
                     EntityState.Added => data.Entity.CreateDate = DateTime.UtcNow,
-                    EntityState.Modified => data.Entity.UpdateDate = DateTime.UtcNow
-                };
+                    EntityState.Modified => data.Entity.UpdateDate = DateTime.UtcNow,
+                    _ => DateTime.UtcNow
+                }; ;
 
 
             }

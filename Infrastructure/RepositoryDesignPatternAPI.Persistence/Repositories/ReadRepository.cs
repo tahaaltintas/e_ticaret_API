@@ -11,10 +11,9 @@ using System.Threading.Tasks;
 
 namespace RepositoryDesignPatternAPI.Persistence.Repositories
 {
-    public  class ReadRepository<T> : IReadRepository<T> where T : BaseEntity
+    public class ReadRepository<T> : IReadRepository<T> where T : BaseEntity
     {
         private readonly RepositoryDesignPatternDbContext _context;
-
         public ReadRepository(RepositoryDesignPatternDbContext context)
         {
             _context = context;
@@ -26,23 +25,23 @@ namespace RepositoryDesignPatternAPI.Persistence.Repositories
         {
             var query = Table.AsQueryable();
             if (!tracking)
-                query=query.AsNoTracking();
+                query = query.AsNoTracking();
             return query;
         }
 
         public IQueryable<T> GetWhere(Expression<Func<T, bool>> method, bool tracking = true)
         {
             var query = Table.Where(method);
-            if(!tracking) 
-                query=query.AsNoTracking();
+            if (!tracking)
+                query = query.AsNoTracking();
             return query;
         }
 
         public async Task<T> GetSingleAsync(Expression<Func<T, bool>> method, bool tracking = true)
         {
             var query = Table.AsQueryable();
-            if(!tracking)
-                query=query.AsNoTracking();
+            if (!tracking)
+                query = query.AsNoTracking();
             return await query.FirstOrDefaultAsync(method);
         }
 
@@ -51,8 +50,8 @@ namespace RepositoryDesignPatternAPI.Persistence.Repositories
         //=> await Table.FindAsync(Guid.Parse(id));
         {
             var query = Table.AsQueryable();
-            if(!tracking)
-                query=query.AsNoTracking();
+            if (!tracking)
+                query = query.AsNoTracking();
             return await query.FirstOrDefaultAsync(data => data.Id == Guid.Parse(id));
         }
 
