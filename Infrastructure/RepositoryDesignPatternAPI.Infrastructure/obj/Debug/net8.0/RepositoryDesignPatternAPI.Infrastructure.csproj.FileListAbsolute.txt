@@ -10,9 +10,9 @@ C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastr
 C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Infrastructure\obj\Debug\net8.0\RepositoryDesignPatternAPI.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Infrastructure\obj\Debug\net8.0\RepositoryDesignPatternAPI.Infrastructure.AssemblyInfo.cs
 C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Infrastructure\obj\Debug\net8.0\RepositoryDesignPatternAPI.Infrastructure.csproj.CoreCompileInputs.cache
-C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Infrastructure\obj\Debug\net8.0\RepositoryDesignPatternAPI.Infrastructure.csproj.CopyComplete
 C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Infrastructure\obj\Debug\net8.0\RepositoryDesignPatternAPI.Infrastructure.dll
 C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Infrastructure\obj\Debug\net8.0\refint\RepositoryDesignPatternAPI.Infrastructure.dll
 C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Infrastructure\obj\Debug\net8.0\RepositoryDesignPatternAPI.Infrastructure.pdb
 C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Infrastructure\obj\Debug\net8.0\ref\RepositoryDesignPatternAPI.Infrastructure.dll
 C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Infrastructure\obj\Debug\net8.0\RepositoryDesignPatternAPI.Infrastructure.sourcelink.json
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Infrastructure\RepositoryDesignPatternAPI.Infrastructure\obj\Debug\net8.0\Reposito.9AF72B32.Up2Date
