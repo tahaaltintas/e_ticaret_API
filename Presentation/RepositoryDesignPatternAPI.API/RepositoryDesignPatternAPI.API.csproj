@@ -17,6 +17,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\Core\RepositoryDesignPatternAPI.Application\RepositoryDesignPatternAPI.Application.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\RepositoryDesignPatternAPI.Infrastructure\RepositoryDesignPatternAPI.Infrastructure.csproj" />
     <ProjectReference Include="..\..\Infrastructure\RepositoryDesignPatternAPI.Persistence\RepositoryDesignPatternAPI.Persistence.csproj" />
   </ItemGroup>
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RepositoryDesignPatternAPI.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1c98e349d7cc544ee909a06394516439f2fbb8f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+396af2f9d6e49479b8b9c0d351dda583223a4efa")]
 [assembly: System.Reflection.AssemblyProductAttribute("RepositoryDesignPatternAPI.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RepositoryDesignPatternAPI.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

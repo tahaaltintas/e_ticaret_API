@@ -124,7 +124,6 @@ C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Presenta
 C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Presentation\RepositoryDesignPatternAPI.API\obj\Debug\net8.0\RepositoryDesignPatternAPI.API.AssemblyInfoInputs.cache
 C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Presentation\RepositoryDesignPatternAPI.API\obj\Debug\net8.0\RepositoryDesignPatternAPI.API.AssemblyInfo.cs
 C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Presentation\RepositoryDesignPatternAPI.API\obj\Debug\net8.0\RepositoryDesignPatternAPI.API.csproj.CoreCompileInputs.cache
-C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Presentation\RepositoryDesignPatternAPI.API\obj\Debug\net8.0\RepositoryDesignPatternAPI.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Presentation\RepositoryDesignPatternAPI.API\obj\Debug\net8.0\RepositoryDesignPatternAPI.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Presentation\RepositoryDesignPatternAPI.API\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Presentation\RepositoryDesignPatternAPI.API\obj\Debug\net8.0\staticwebassets.development.json
@@ -141,3 +140,12 @@ C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Presenta
 C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Presentation\RepositoryDesignPatternAPI.API\obj\Debug\net8.0\ref\RepositoryDesignPatternAPI.API.dll
 C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Presentation\RepositoryDesignPatternAPI.API\obj\Debug\net8.0\RepositoryDesignPatternAPI.API.sourcelink.json
 C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Presentation\RepositoryDesignPatternAPI.API\obj\Debug\net8.0\Reposito.2F98069D.Up2Date
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Presentation\RepositoryDesignPatternAPI.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Presentation\RepositoryDesignPatternAPI.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Presentation\RepositoryDesignPatternAPI.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Presentation\RepositoryDesignPatternAPI.API\obj\Debug\net8.0\RepositoryDesignPatternAPI.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Presentation\RepositoryDesignPatternAPI.API\bin\Debug\net8.0\RepositoryDesignPatternAPI.Infrastructure.dll
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Presentation\RepositoryDesignPatternAPI.API\bin\Debug\net8.0\RepositoryDesignPatternAPI.Infrastructure.pdb
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Presentation\RepositoryDesignPatternAPI.API\bin\Debug\net8.0\MediatR.dll
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Presentation\RepositoryDesignPatternAPI.API\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\tahaa\OneDrive\Masaüstü\e_ticaret\RepositoryDesignPatternAPI\Presentation\RepositoryDesignPatternAPI.API\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll

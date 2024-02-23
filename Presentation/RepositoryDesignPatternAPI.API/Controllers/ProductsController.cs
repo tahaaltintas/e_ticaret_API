@@ -1,8 +1,12 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
+using RepositoryDesignPatternAPI.Application.Features.Commands.Product.CreateProduct;
+using RepositoryDesignPatternAPI.Application.Features.Commands.Product.RemoveProduct;
+using RepositoryDesignPatternAPI.Application.Features.Commands.Product.UpdateProduct;
+using RepositoryDesignPatternAPI.Application.Features.Queries.Product.GetAllProduct;
+using RepositoryDesignPatternAPI.Application.Features.Queries.Product.GetByIdProduct;
 using RepositoryDesignPatternAPI.Application.Repositories;
-using RepositoryDesignPatternAPI.Application.ViewModels.Product;
-using RepositoryDesignPatternAPI.Domain.Entities;
+
 
 namespace RepositoryDesignPatternAPI.API.Controllers
 {
@@ -10,58 +14,62 @@ namespace RepositoryDesignPatternAPI.API.Controllers
     [ApiController]
     public class ProductsController : ControllerBase
     {
-        readonly private IProductWriteRepository _productWriteRepository;
-        readonly private IProductReadRepository _productReadRepository;
+        readonly IProductReadRepository _productReadRepository;
 
-        public ProductsController(
-            IProductWriteRepository productWriteRepository,
-            IProductReadRepository productReadRepository)
+        readonly IMediator _mediator;
+
+        public ProductsController(IMediator mediator, IProductReadRepository productReadRepository = null)
         {
-            _productWriteRepository = productWriteRepository;
+            _mediator = mediator;
             _productReadRepository = productReadRepository;
         }
 
         [HttpGet]
-        public IActionResult GetList()
+        public async Task<IActionResult> GetList()
         {
-            return Ok(_productReadRepository.GetAll(false));
+            var productsTask = _productReadRepository.GetAll(false);
+
+            var products = await productsTask;
+
+
+            var selectedProducts = products.Select(p => new
+            {
+                p.Id,
+                p.Name,
+                p.Stock,
+                p.Price,
+                p.CreateDate,
+                p.UpdateDate
+            }).ToList();
+
+            return Ok(selectedProducts); 
         }
 
-        [HttpGet("{id}")]
-        public async Task<IActionResult> GetById(string id)
+        [HttpGet("{Id}")]
+        public async Task<IActionResult> GetById([FromRoute] GetByIdProductQueryRequest getByIdProductQueryRequest)
         {
-            return Ok(await _productReadRepository.GetByIdAsync(id, false));
+            GetByIdProductQueryResponse response = await _mediator.Send(getByIdProductQueryRequest);
+            return Ok(response);
         }
 
         [HttpPost]
-        public async Task<IActionResult> Post(VM_Create_Product model)
+        public async Task<IActionResult> Post(CreateProductCommandRequest createProductCommondRequest)
         {
-            await _productWriteRepository.AddAsync(new()
-            {
-                Name = model.Name,
-                Price = model.Price,
-                Stock = model.Stock
-            });
-            await _productWriteRepository.SaveAsync();
+            CreateProductCommandResponse response = await _mediator.Send(createProductCommondRequest);
             return Ok();
         }
 
         [HttpPut]
-        public async Task<IActionResult> Put(VM_Update_Product model)
+        public async Task<IActionResult> Put([FromBody] UpdateProductCommandRequest updateProductCommandRequest)
         {
-            Product product = await _productReadRepository.GetByIdAsync(model.Id);
-            product.Name = model.Name;
-            product.Price = model.Price;
-            product.Stock = model.Stock;
-            await _productWriteRepository.SaveAsync();
+            UpdateProductCommandResponse response = await _mediator.Send(updateProductCommandRequest);
             return Ok();
         }
 
-        [HttpDelete("{id}")]
-        public async Task<IActionResult> Delete(string id)
+        [HttpDelete("{Id}")]
+        public async Task<IActionResult> Delete([FromRoute] RemoveProductCommandRequest removeProductCommandRequest)
         {
-            await _productWriteRepository.RemoveAsync(id);
-            await _productWriteRepository.SaveAsync();
+            RemoveProductCommandResponse response = await _mediator.Send(removeProductCommandRequest);
             return Ok();
         }
 
